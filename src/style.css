@@ -1,0 +1,7 @@
+.App {
+    border: 10px solid gray;
+    margin: 0 auto;
+    width: 60%;
+    box-shadow: 10px 5px 15px gray;
+    margin-top: 40px;
+}
